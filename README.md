@@ -1,6 +1,6 @@
 # SmartStocks
 
-CMU 15-112 Final Project
+CMU 15-112 Final Project, Fall 2024
 
 # Overview 
 
