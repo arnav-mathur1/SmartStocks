@@ -25,3 +25,6 @@ Lastly, the user is given a recommendation on whether to sell, hold, or buy a pa
 5. Finally, run the application with “python test.py” 
 
 6. If CMU Graphics does not install normally, follow the operating-system instructions at https://academy.cs.cmu.edu/desktop.
+
+# Demo Link
+https://drive.google.com/file/d/1w2yROJ5N7EIZPljtm8fvY_zl_isFFqZM/view
